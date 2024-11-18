@@ -21,4 +21,4 @@ WORKDIR /app
 EXPOSE 8080
 
 # Run the built JAR
-CMD ["java", "-jar", "target/untitled1-1.0-SNAPSHOT.jar"]
+CMD ["java", "-jar", "target/java-bot-1.0-SNAPSHOT.jar"]
